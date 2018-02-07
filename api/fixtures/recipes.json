@@ -1,0 +1,482 @@
+[
+  {
+    "model": "api.recipe",
+    "pk": 1,
+    "fields": {
+      "created": "2017-08-30T21:52:06.540Z",
+      "updated": "2017-08-30T21:52:06.540Z",
+      "name": "Confettura di ciliegie",
+      "slug": "confettura-di-ciliegie",
+      "introduction": "La confettura di ciliegie è una ricetta semplice da realizzare, adatta alla stagione estiva in cui le ciliegie sono più buone e succose.",
+      "instructions": "Per preparare la confettura di ciliegie iniziate privando le ciliegie del picciolo. Lavatele bene (1), poi asciugatele e tagliatele a metà, togliendo il nocciolo (otterrete così circa 1 kg di ciliegie). Mettetete le ciliegie in una ciotola e aggiungete lo zucchero, la scorza di limone e 3 cucchiai di succo di limone (2). Coprite la ciotola con la pellicola trasparente e lasciate riposare il tutto per almeno 6 ore o per tutta la notte in un luogo fresco e asciutto o in frigorifero. Trascorso questo tempo eliminate le scorze del limone (3). Mettete la frutta in un tegame capiente (4) e cuocete a fuoco moderato per circa un'ora, mescolando di tanto in tanto e togliendo la schiuma che si forma in superficie con una schiumarola (5). Mentre la confettura cuoce, dedicatevi alla sanificazione dei barattoli e dei tappi, come indicato dalle linee guida del Ministero della Salute riportate in fondo alla ricetta. Una volta che avrete svolto questa operazione, tornate alla confettura e controllatene la cottura: sarà pronta quando, versandone una goccia su un piatto inclinato, questa non colerà ma resterà compatta, omogenea e senza sbavature. Passate quindi la confettura con un passaverdure (6). Se però amate la frutta in pezzi potete lasciarla così o passarne circa la metà. A questo punto versate la confettura ancora bollente nei vasetti che avete sanificato, avendo cura di lasciare 1 centimetro di spazio dal bordo del vasetto. Avvitate bene i tappi sanificati ma senza stringere eccessivamente e lasciate raffreddare. Con il calore della confettura si creerà il sottovuoto, che permetterà di conservare il prodotto a lungo. Una volta che i barattoli si saranno raffreddati verificate se il sottovuoto è avvenuto correttamente: potete premere al centro del tappo e, se non sentirete il classico \"click-clack\", il sottovuoto sarà avvenuto. In caso contrario potete far bollire i barattoli in un tegame capiente per circa 30 minuti, con il tappo rivolto verso l'alto e coperti con acqua fino a metà barattolo. Dopodiché dovrete farli asciugare e raffreddare, sempre capovolti. In alternativa, basterà mettere i barattoli in microonde per circa un minuto e mezzo. La vostra confettura di ciliegie è pronta per essere gustata!",
+      "preparation_time": 30,
+      "cooking_time": 90,
+      "recipe_yield": 0,
+      "rating": "4.2"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 2,
+    "fields": {
+      "created": "2017-08-30T21:52:06.765Z",
+      "updated": "2017-08-30T21:52:06.765Z",
+      "name": "Couscous alle verdure",
+      "slug": "couscous-alle-verdure",
+      "introduction": "Il cous cous alle verdure  è un primo piatto dai sapori mediterranei, semplice, veloce e ricco di profumi!",
+      "instructions": "Per preparare il couscous di verdure, cominciate occupandovi della pulizia e del taglio delle verdure e degli aromi necessari per la ricetta. Tagliate il peperoncino a listarelle e privatelo dei semini interni (1). Lavate e mondate le verdure, quindi tritate grossolanamente il cipollotto (2) e tagliate la melanzana prima a fette, poi a bastoncino ed infine a cubetti (3). Procedete con le carote: tagliatele prima a rondelle leggermente diagonali, e poi da esse ricavate dei fiammiferini (4). Ripetete lo stesso taglio anche per le zucchine (5). Tenendo anche in questo caso un taglio leggermente diagonale, tagliate le taccole a tocchetti (6). Tagliate infine anche i pomodorini a metà nel senso della lunghezza (7). Disponete quindi sul fornello una larga padella tipo wok, e scaldatevi un filo d’olio (8). Soffriggetevi brevemente il peperoncino e lo spicchio d’aglio sbucciato intero, e appena l’olio si sarà insaporito aggiungete per prime le melanzane (9) E il cipollotto (10). Lasciate che le melanzane si scottino a dovere, senza aggiungere altro olio per evitare che si impregnino troppo, quindi unite le carote (11) e dopo pochi minuti le taccole (12) E le zucchine (13). Regolate di sale (14) e di pepe (15). Spadellando, portate le verdure a cottura a fiamma vivace (basteranno pochi minuti), quindi rimuovete l’aglio (16) e unite i pomodorini (17). Proseguite la cottura ancora 1-2 minuti, poi spegnete il fuoco: le vostre verdure sono pronte. Come ultimo tocco, grattugiatevi lo zenzero (18), amalgamate bene e tenete da parte. Occupatevi adesso del couscous: noi abbiamo utilizzato couscous precotto, più veloce e semplice da preparare. Versatelo in una ciotola capiente (19), condite con il sale (20) la curcuma (21) (che conferirà al couscous il suo tipico colore oltre ad una nota aromatica in più) E l’olio (22), amalgamate (23) e coprite il tutto con l’acqua calda (24). Sigillate con pellicola trasparente (25) e attendete 2 minuti: trascorso questo tempo, il couscous è pronto. Sgranatelo accuratamente, rovesciandolo in un vassoio e separando i chicchi con una forchetta (26). È il momento di impiattare! Ponete le verdure al centro di ogni piatto di couscous, e profumate con le foglioline di menta spezzettate a mano (27). Il couscous alle verdure è pronto da gustare!",
+      "preparation_time": 25,
+      "cooking_time": 40,
+      "recipe_yield": 4,
+      "rating": "4.3"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 3,
+    "fields": {
+      "created": "2017-08-30T21:52:07.401Z",
+      "updated": "2017-08-30T21:52:07.401Z",
+      "name": "Tiramisù",
+      "slug": "tiramisu",
+      "introduction": "Il tiramisù è sicuramente uno dei dessert più golosi e conosciuti al mondo, grazie alla dolcezza del mascarpone e al gusto intenso del caffè.",
+      "instructions": "Per preparare il tiramisù cominciate dalle uova che dovranno essere ben fredde: quindi separate accuratamente gli albumi dai tuorli (1), ricordando che per montare bene gli albumi non dovranno presentare alcuna traccia di tuorlo. Poi montate i tuorli con le fruste elettriche, versando solo metà dose di zucchero (2). Non appena il composto sarà diventato chiaro e spumoso (3), e con le fruste ancora in funzione, potrete aggiungere il mascarpone, poco alla volta, anch'esso freddo (4). Incorporato tutto il formaggio avrete ottenuto una crema densa e compatta; tenetela da parte (5). Pulite molto bene le fruste e passate a montare gli albumi versando il restante zucchero un po’ alla volta (6). Dovrete montarli a neve ben ferma (7); otterrete questo risultato quando rovesciando la ciotola la massa non si muoverà. Prendete una cucchiaiata di albumi e versatela nella ciotola con i tuorli e lo zucchero e mescolate energicamente con una spatola, così stempererete il composto (8). Dopodiché procedete ad aggiungere la restante parte di albumi, poco alla alla volta mescolando molto delicatamente dall'alto verso il basso (9). Una volta pronto, distribuite una generosa cucchiaiata di crema sul fondo di una pirofila da 30x20cm e distribuite per bene (11). Poi inzuppate per pochi istanti i savoiardi nel caffè freddo già zuccherato a vostro piacimento (noi abbiamo aggiunto solo 1 cucchiaino di zucchero) (12), prima da un lato e poi dall’altro (13). Man mano distribuite i savoiardi imbevuti sulla crema, tutti in un verso, così da ottenere un primo strato (14) sul quale andrete a distribuire una parte della crema al mascarpone (15). Anche in questo caso dovrete livellarla accuratamente così da avere una superficie liscia (16). E continuate a distribuire i savoiardi imbevuti nel caffè (17), poi realizzate un altro strato di crema (18). Livellate la superficie (19) e spolverizzatela con del cacao amaro in polvere e lasciate rassodare in frigorifero per un paio d’ore (20). Il vostro tiramisù è pronto per essere gustato (21)!",
+      "preparation_time": 40,
+      "cooking_time": 40,
+      "recipe_yield": 8,
+      "rating": "4.3"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 4,
+    "fields": {
+      "created": "2017-08-30T21:52:07.680Z",
+      "updated": "2017-08-30T21:52:07.680Z",
+      "name": "Confettura di albicocche",
+      "slug": "confettura-di-albicocche",
+      "introduction": "La confettura di albicocche è una conserva preparata con uno dei frutti della stagione estiva, ideale su pane tostato o per farcire golosi dolci.",
+      "instructions": "Per preparare la confettura di albicocche, partite dalla scelta delle albicocche: scegliete frutti maturi e senza macchie (1): in questo modo eviterete che si formi la schiuma durante la cottura della confettura che di volta in volta è necessario eliminare. Lavate per bene le albicocche e asciugatele su di un canovaccio (2). Poi tagliatele a metà (3). Togliete il nocciolo (4) e poi tagliatele a spicchi (5). Mettete le albicocche tagliate in una ciotola capiente aggiungete lo zucchero semolato (6). Spremete il succo del limone e filtratelo attraversono un colino a maglie strette (7), aggiungete il succo di limone filtrato alle albicocche (8) e mescolate con cura con un mestolo (9). Coprite la ciotola con la pellicola trasparente (10) e lasciate macerare il tutto al fresco per una notte intera (o per almeno 12 ore). Trascorso il tempo di riposo, versate il tutto in una pentola (11) e portate ad ebollizione mescolando di tanto in tanto (12). Mentre la confettura cuoce, potete dedicarvi alla sanificazione dei barattoli e dei tappi, come indicato dalle linee guida del Ministero della Salute riportate in fondo alla ricetta. Una volta terminata questa operazione tornate a controllare lo stato di cottura della confettura. La frutta inizierà a sfaldarsi (13), durante la cottura potrebbe rendersi necessario schiumare la confettura, soprattutto se la buccia delle albicocche presenta qualche piccola macchia. Dopo 30 minuti la vostra confettura di albicocche dovrebbe essere pronta (14): prelevate un po’ di composto con un cucchiaino e lasciatene cadere una goccia su un piatto che deve restare compatta, questa è la prova che la vostra confettura è pronta (15). Se la goccia scivola via e non risulta compatta, proseguite la cottura per il tempo necessario mescolando frequentemente. Una volta pronta, potete invasare la confettura ancora calda nei barattoli che avete sanificato: riempite i vasetti con un mestolo, se preferite potete utilizzare anche un imbuto per confetture (16), avendo cura di lasciare almeno 1 centimetro di spazio dal bordo del barattolo. Avvitate bene i tappi, ma senza stringere troppo (17) e lasciate raffreddare (18). Con il calore della confettura si creerà il sottovuoto, che permetterà di conservare il prodotto a lungo. Una volta che i barattoli si saranno raffreddati verificate se il sottovuoto è avvenuto correttamente: potete premere al centro del tappo e, se non sentirete il classico \"click-clack\", il sottovuoto sarà avvenuto. In caso contrario potete far bollire i barattoli in un tegame capiente per circa 30 minuti, con il tappo rivolto verso l'alto e coperti con acqua fino a metà barattolo. Dopodiché dovrete farli asciugare e raffreddare, sempre capovolti. In alternativa, basterà mettere i barattoli in microonde per circa un minuto e mezzo. La vostra confettura di albicocche è pronta per essere gustata!",
+      "preparation_time": 20,
+      "cooking_time": 50,
+      "recipe_yield": 2,
+      "rating": "4.6"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 5,
+    "fields": {
+      "created": "2017-08-30T21:52:07.852Z",
+      "updated": "2017-08-30T21:52:07.852Z",
+      "name": "Risotto con zucchine",
+      "slug": "risotto-con-zucchine",
+      "introduction": "Il risotto con zucchine è un primo piatto gustoso, da mantecare con formaggio e burro per un risultato cremoso, perfetto per i menu primaverili",
+      "instructions": "Per realizzare il risotto con zucchine iniziate preparando il brodo vegetale . Sbucciate la cipolla rossa e tritatela finemente con il coltello (1), riscaldate l’olio di oliva in un tegame largo e aggiungete il trito di cipolla (2), fate rosolare per qualche minuto a fuoco basso fino a farla appassire, aggiungendo un mestolo di brodo (3). Dopo aver rosolato la cipolla, versate il riso nel tegame (4) e fatelo tostare 1 minuto a fuoco vivace, poi sfumate con il vino bianco (5) e, una volta che il vino sarà evaporato, abbassate la fiamma a fuoco medio e aggiungete poco alla volta il brodo vegetale (6), mescolando spesso e avendo cura di aspettare che sia stato assorbito il brodo prima di aggiungerne altro (la cottura del riso richiederà circa 20 minuti). Intanto lavate e spuntate le zucchine (7), grattugiatele con una grattugia a fori larghi (8), a metà cottura del riso (dopo circa 10 minuti) aggiungete anche le zucchine nel tegame (9) salate, pepate, mescolate con un cucchiaio di legno e portate a termine la cottura del risotto. Una volta pronto il risotto, spegnete il fuoco e mantecate con il burro (10) e il formaggio grattugiato (11), mescolando. Potete usare il pecorino o, se preferite, anche il Parmigiano Reggiano e servite ben caldo (12). Il vostro risotto con le zucchine è pronto per essere gustato!",
+      "preparation_time": 10,
+      "cooking_time": 30,
+      "recipe_yield": 4,
+      "rating": "4.6"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 6,
+    "fields": {
+      "created": "2017-08-30T21:52:08.145Z",
+      "updated": "2017-08-30T21:52:08.145Z",
+      "name": "Crema pasticcera",
+      "slug": "crema-pasticcera",
+      "introduction": "La crema pasticcera è tra le più usate in pasticceria; si può gustare da sola o per farcire crostate, bignè, Pan di Spagna, dolci di pasta sfoglia!",
+      "instructions": "Per realizzare la crema pasticcera per prima cosa incidete il baccello di vaniglia nel senso della lunghezza ed estraete i semini che si trovano all’interno con la lama di un coltellino (1). Il baccello servirà per aromatizzare il latte, mentre i semini li aggiungerete al composto di tuorli e zucchero. In un tegame dal fondo spesso versate la dose di latte (2) e panna (3) (se preferite al posto di 400 g di latte e 100 g di panna potete usare 500 g di latte). Unite anche il baccello di vaniglia svuotato dei semi (4) e portate tutto a sfiorare il bollore. A parte in una ciotola versate i tuorli, aggiungete i semi del baccello di vaniglia (5). Sbattete velocemente con le fruste i tuorli insieme allo zucchero (6). (È importante farlo velocemente perché se si lascia lo zucchero a contatto coi tuorli ne assorbe la parte acquosa, cristallizzandone le proteine e rendendole insolubili). Quando il composto si sarà amalgamato (7), setacciate direttamente nella ciotola l’amido di mais (o di riso) (8). Mescolate per incorporare bene l'amido (9). Ora eliminate il baccello di vaniglia dal tegame con il latte e la panna (10), prelevate un mestolo di liquido e aggiungetelo al composto di uova, zucchero e amido per stemperarlo con la frusta (11). Una volta stemperato riversate il composto nel tegame (12), lasciate addensare a fuoco dolce mescolando continuamente con la frusta. Proseguite la cottura, senza smettere di mescolare, finché la crema non si sarà addensata (13), a questo punto versatela subito in una pirofila (14). L'ideale sarebbe avere una ciotola capiente con ghiaccio in cui sistemare una ciotola più piccola e versare la crema all'interno per raffreddarla velocemente portandola ad una temperatura inferiore ai 50°, mescolando con la frusta. Questo permette di mantenere la consistenza della crema intatta; inoltre se riuscite a raffreddarla arrivando al di sotto di 10° otterrete anche la pastorizzazione delle uova (il tutto misurabile con un termometro da cucina). La crema pasticcera sarebbe pronta per essere usata; altrimenti coprite con pellicola trasparente a contatto (15), lasciate finire il raffreddamento prima a temperatura ambiente e poi in frigo. In questo caso vi consigliamo di mescolare con le fruste elettriche per ravvivarla, a questo punto la crema pasticcera sarà pronta per essere impiegata nelle ricette.",
+      "preparation_time": 15,
+      "cooking_time": 25,
+      "recipe_yield": 4,
+      "rating": "4.3"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 7,
+    "fields": {
+      "created": "2017-08-30T21:52:08.375Z",
+      "updated": "2017-08-30T21:52:08.375Z",
+      "name": "Ciliegie sciroppate",
+      "slug": "ciliegie-sciroppate",
+      "introduction": "Le ciliegie sciroppate sono una conserva  preparata con acqua e zucchero che permette di conservare le ciliegie e di preservarne il gusto e il colore.",
+      "instructions": "Per preparare le ciliegie sciroppate, per prima cosa dovete procurarvi dei vasetti in vetro per la conserva (del tipo twist-off con capsula metallica oppure con tappo a molla e guarnizione in gomma) e procedete a sanificarli secondo le linee guida del Ministero della Salute riportate in fondo alla ricetta. Iniziate lavando con cura i vasetti sotto acqua corrente, per i vasetti con chiusura ermetica, lavate bene anche la guarnizione e mettetla da parte ad asciugare (1). Foderate una pentola larga dai bordi alti con un canovaccio pulito e sistemate i vasetti all’interno della pentola. Passate poi attorno ai vasetti uno o più strofinacci per evitare urti (2). Riempite la pentola di acqua fino a ricoprire i vasetti. Portate ad ebollizione, poi abbassate il fuoco e lasciate i vasetti nella pentola ancora 30 minuti. Dieci minuti prima di scolare i vasetti, immergete anche i coperchi da sterilizzare. Passato il tempo necessario, spegnete il fuoco e lasciate raffreddare. Quando l'acqua sarà a temperatura ambiente, tirate fuori i vasetti dalla pentola e fateli scolare su un panno (3). Ora che i vasetti sono pronti, preparate uno sciroppo con zucchero e acqua con 200 gr di zucchero e un litro d’acqua procedendo come segue: mettete una pentola con l’acqua sul fuoco e versateci dentro lo zucchero (4). Portatela a ebollizione, e mescolate fino a quando lo zucchero sarà completamente sciolto (5). È importante non far cuocere troppo lo sciroppo altrimenti si rischia che si formi il caramello. Fate raffreddare lo sciroppo, intanto prendete le ciliegie, sceglietele sode e mature, lavatele bene e asciugatele (6). Eliminate il picciolo (7). Ponete le ciliegie nei vasi a chiusura ermetica (8) cercando di sistemarle in modo tale da lasciare meno spazi vuoti possibili, senza però schiacciarle troppo. Con le dosi indicate otterrete due vasetti della capacità di 500 ml (9). Versate lo sciroppo precedentemente preparato sulle ciliegie dentro ai vasetti (10), agitandoli di tanto in per fare fuoriuscire le eventuali bolle d’aria; fermatevi con lo sciroppo a 1 cm dal bordo (11). Chiudete infine i vasetti (12). Se utilizzate barattoli con tappo a vite, avvitate bene i tappi ma senza stringere eccessivamente. A questo punto procedete con la bollitura: sistemate i vasetti in una pentola capiente, per evitare che i barattoli possano rompersi sbattendo tra loro mentre bollono potete avvolgerli separatamente in alcuni canovacci. Riempite la pentola d'acqua: il livello dell'acqua non deve superare il tappo dei barattoli. Portate a ebollizione e fare bollire per 20-30 minuti. Passato questo tempo, spegnete il fuoco estraeteli dall'acqua utilizzando una pinza e lasciate raffreddare. Se utilizzate barattoli con tappi a vite, una volta che i barattoli si saranno raffreddati verificate se il sottovuoto è avvenuto correttamente: potete premere al centro del tappo e, se non sentirete il classico \"click-clack\", il sottovuoto sarà avvenuto. Se utilizzate i barattoli con chiusure a guarnizione in gomma, al momento di consumare le ciliegie potete fare la prova del sottovuoto tirando l'apposita linguetta: se tirandola produce un rumore secco vuol dire che il contenuto si è conservato con il sottovuoto corretto. Al contrario, se tirando la linguetta la guarnizione risulta \"molle\", significa che non si è creato il sottovuoto correttamente ed è meglio non mangiarne il contenuto. Le vostre ciliegie sono pronte per essere gustate!",
+      "preparation_time": 10,
+      "cooking_time": 20,
+      "recipe_yield": 2,
+      "rating": "2.9"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 8,
+    "fields": {
+      "created": "2017-08-30T21:52:08.536Z",
+      "updated": "2017-08-30T21:52:08.536Z",
+      "name": "Patate al forno",
+      "slug": "patate-al-forno",
+      "introduction": "Le patate al forno sono il più classico e più apprezzato dei contorni: croccanti e saporite patate a cubetti aromatizzate con timo rosmarino e aglio.",
+      "instructions": "Per realizzare le patate al forno, lavate e sbucciate con un pelaverdure le patate (1), dividete a metà e poi in quarti (2), quindi riducetele a piccoli cubetti (3). In una pentola portate ad ebollizione abbondante acqua e poi lessate i cubetti di patate per 5 minuti (4), trascorso questo tempo scolate con una schiumarola le patate (5) e trasferitele in una ciotola. Aromatizzate con le foglioline di timo fresco (6), condite con l’olio di oliva extravergine (7), sale e mescolate con un cucchiaio per insaporirle al meglio (8). Preriscaldate il forno in modalità ventilata a 200° avendo cura di tenere all’interno la teglia vuota che servirà per la cottura della patate. Quando il forno avrà raggiunto la temperatura, estraete la teglia (muniti di presine per non scottarvi!) e versate un filo di olio sul fondo (9), versate anche le patate e aggiungete i rametti di rosmarino (10) e i due spicchi di aglio interi, senza sbucciarli (11). Cuocete le patate a in forno ventilato preriscaldato a 200° per 1 ora o fino a quando le patate non risulteranno croccanti e dorate. Durante la cottura si raccomanda di mescolare le patate almeno ogni 20 minuti per una cottura uniforme. A cottura ultimata sfornate le vostre patate al forno (12), togliete gli spicchi d'aglio e lasciatele intiepidire per poi portarle subito in tavola!",
+      "preparation_time": 15,
+      "cooking_time": 80,
+      "recipe_yield": 4,
+      "rating": "4.4"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 9,
+    "fields": {
+      "created": "2017-08-30T21:52:08.752Z",
+      "updated": "2017-08-30T21:52:08.752Z",
+      "name": "Fiori di zucca ripieni di burrata e pomodori secchi",
+      "slug": "fiori-di-zucca-ripieni-di-burrata-e-pomodori-secch",
+      "introduction": "I fiori di zucca ripieni di burrata e pomodori secchi sono un antipasto facile da preparare e molto sfizioso, racchiuso in una pastella croccante.",
+      "instructions": "Per realizzare i fiori di zucca ripieni di burrata e pomodori secchi, iniziate a pulire i fiori di zucca. Lavate accuratamente i fiori immergendoli in una ciotola con acqua fredda. Quindi trasferiteli su un panno da cucina asciutto e per farli scolare. Quando saranno asciutti togliete le escrescenze mantenendo la coppa inferiore (1), poi con un coltello eliminate il gambo (2) (potete anche lasciarlo se lo preferite) e aprite delicatamente il fiore per individuare il pistillo interno (3). Quindi estraete il pistillo con le mani da ciascun fiore (4). Passate poi a dividere a metà i pomodori secchi (5) (se usate quelli sott'olio, sgocciolateli e tamponateli con carta da cucina per eliminare l'olio in eccesso prima di impiegarli nella preparazione) e riducete a fette la burrata che utilizzerete per il ripieno (6). Iniziate a farcire i vostri fiori di zucca: divaricateli con delicatezza e inserite una fetta di burrata (7) e il pomodoro secco diviso a metà (8). Quindi prendete delicatamente le foglie con le dita per chiudere i fiori (9). Operate una torsione leggera delle foglie avvolgendole su se stesse perchè il ripieno non fuoriesca (10) e tenete da parte i vostri fiori di zucca ripieni. Intanto preparate la pastella: in una ciotola versate il tuorlo e aggiungete la farina (11). Poi versate anche l'acqua frizzante gelata (12). Infine unite i cubetti di ghiaccio che insieme all'acqua fredda serviranno per legare in maniera più rapida ed efficace la farina. Mescolate bene gli ingredienti con una frusta per ottenere una pastella abbastanza liquida e priva di grumi. Prima di utilizzare la pastella assicuratevi che si siano create delle bollicine in superficie (13). In una pentola capiente scaldate l'olio fino a portarlo a 170-180°, mentre in una terrina mette quanto basta di farina per infarinare i fiori. Quindi passateli prima nella farina (14), poi immergeteli ad uno ad uno nella pastella (15) e prima di versarli nell'olio sgocciolateli della pastella in eccesso. Immergete i fiori di zucca nella pentola con l'olio a 170-180° 1 o 2 alla volta per non far abbassare eccessivamente la temperatura dell'olio (16); friggeteli per qualche minuto fino a quando saranno dorati e croccanti; quindi scolateli con una schiumarola quando saranno dorati (17). Trasferiteli su un vassoio ricoperto di carta assorbente, salateli a piacere e serviteli caldissimi (18)!",
+      "preparation_time": 20,
+      "cooking_time": 30,
+      "recipe_yield": 4,
+      "rating": "4.5"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 10,
+    "fields": {
+      "created": "2017-08-30T21:52:09.019Z",
+      "updated": "2017-08-30T21:52:09.019Z",
+      "name": "Insalata di riso",
+      "slug": "insalata-di-riso",
+      "introduction": "L'insalata di riso è un classico delle ricette estive. Veloce e facile da preparare l'insalata di riso si può insaporire con gli ingredienti più vari.",
+      "instructions": "Per realizzare l’insalata di riso classica iniziate a preparare gli ingredienti che costituiranno il condimento: lavate i peperoni, eliminate il picciolo, i semi e i filamenti interni, tagliateli prima a listarelle e poi a cubetti (1) e poneteli in una ciotola capiente dove raccoglierete tutti gli altri ingredienti. Lavate e tagliate a metà anche i pomodori, scavate la polpa con un cucchiaino e tagliateli a cubetti (2). Ricavate dei cubetti anche dal groviera (3). Tagliate i wurstel a rondelle (4), procedete nello stesso modo anche con le olive denocciolate (5). Tritate l’erba cipollina (6) che servirà per aromatizzare l’insalata. Per finire tagliate a rondelle anche i cetriolini sott'aceto (7) e unite anche questi al resto degli ingredienti. Ora che il condimento è pronto (8) occupatevi del riso: in una pentola mettete a bollire dell'acqua salata, versate il riso (9) e dopo circa 10 minuti di cottura unite anche i piselli sgranati (10) che devono cuocere rimanendo comunque croccanti, proseguite la cottura per altri 5 minuti. Una volta cotto, scolate il riso insieme ai piselli (11). Unite quindi il riso al condimento precedentemente preparato (12), Scolate dall’olio di conservazione il tonno e unitelo al riso (13), per terminare aromatizzate con l'erba cipollina tritata. Mescolate per amalgamare gli ingredienti (14). Coprite la ciotola con la pellicola (15) e conservate l’insalata in frigorifero in modo che il riso assorba tutti i sapori. Gustate la vostra insalata di riso classica fredda.",
+      "preparation_time": 20,
+      "cooking_time": 35,
+      "recipe_yield": 4,
+      "rating": "4.5"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 11,
+    "fields": {
+      "created": "2017-08-30T21:52:09.384Z",
+      "updated": "2017-08-30T21:52:09.384Z",
+      "name": "Torta caprese",
+      "slug": "torta-caprese",
+      "introduction": "La torta caprese è un antico dolce napoletano, originario dell'isola di Capri, una delizia a base di cioccolato e mandorle senza l'aggiunta di farina!",
+      "instructions": "Per preparare la torta caprese cominciate versando in una ciotola il burro a temperatura ambiente (è conveniente lasciarlo fuori dal frigo per almeno 12 ore prima o per almeno un paio d’ore), metà dello zucchero (1) e i semi raschiati con un coltellino da mezza bacca di vaniglia (2). Azionate le fruste a velocità medio-alta e dopo 6-7 minuti aggiungete anche il pizzico di sale e i tuorli d’uovo. Anche le uova vanno lasciate a temperatura ambiente per almeno 12 ore (3). Il composto dopo pochi minuti risulterà ben spumoso (4) quindi spegnete la fruste, ripulite la ciotola con una spatola raccogliendo tutto il composto e tenete da parte (5). In un’altra ciotola miscelate le polveri: unite il cioccolato grattugiato, le mandorle in polvere (6), e le nocciole in polvere (7). Poi setacciate la fecola di patate, il lievito per dolci (8) e il cacao amaro in polvere (9). Mescolate bene il tutto e tenete da parte (10). In un’altra ciotola versate gli albumi e il rimanente zucchero a velo (11). Assicuratevi che le fruste siano ben pulite, altrimenti gli albumi non monteranno, e azionatele (12). Dopo qualche minuto risulterà lucido e spumoso: non dovete montare a neve ma dovrà fare il classico becco d’uccello (13). Tutte le preparazioni sono completate, quindi preriscaldate il forno a 170° in modalità ventilata e iniziate a miscelarle: aggiungete al composto di tuorli e burro un terzo degli albumi montati (14), poi un terzo delle polveri (15) e amalgamate bene con la spatola, mescolando delicatamente dal basso verso l’alto (16). Man mano aggiungete ancora un terzo degli albumi e un terzo delle polveri (17) e continuate così fino a che non otterrete un impasto uniforme (18). Versate il composto liscio e cremoso in una tortiera da 22 cm già imburrata e infarinata con fecola di patate (19). Livellate accuratamente la superficie (20) e cuocete in forno ventilato a 170° per circa 45 minuti (21). Una volta cotta, lasciate intiepidire la torta nello stampo, poi capovolgetela e sformatela (23). Poi rigiratela nuovamente su un piatto foderato con carta forno e lasciatela raffreddare completamente (24). Una volta fredda, capovolgete la torta un'ultima volta, eliminate la carta forno e spolverizzate la superficie con zucchero a velo. La vostra torta caprese è pronta per essere gustata (25)!",
+      "preparation_time": 30,
+      "cooking_time": 75,
+      "recipe_yield": 10,
+      "rating": "4.2"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 12,
+    "fields": {
+      "created": "2017-08-30T21:52:09.713Z",
+      "updated": "2017-08-30T21:52:09.713Z",
+      "name": "Torta salata di zucchine",
+      "slug": "torta-salata-di-zucchine",
+      "introduction": "La torta salata di zucchine è un piatto unico ricco e saporito perfetto da portare ad un pic nic o per arricchire un buffet primaverile",
+      "instructions": "Per preparare la torta salata di zucchine iniziate dalla pasta matta. Per preparare la pasta matta, setacciate la farina in una ciotola, poi aromatizzate con le foglioline di timo (1), aggiungete il sale (2) e l’aceto di vino bianco (3), iniziate ad impastare a mano e versate a filo l’acqua a temperatura ambiente (4), continuate ad impastare energicamente finché non otterrete un panetto omogeneo, a questo punto incorporato l’olio di oliva (5). Trasferite l’impasto su un piano da lavoro e lavorate con le mani finché non assorbe tutto l’olio, deve risultare omogeneo (6). Coprite con pellicola (7) e lasciate a riposare per almeno 40 minuti fuori dal frigorifero. Intanto occupatevi del ripieno: sbucciate e tritate finemente lo scalogno (8), lavate e spuntate le zucchine, poi riducetele a rondelle di circa 3-4 mm di spessore (9). Scaldate 20 gr di olio di oliva in padella e fate stufare a fuoco basso lo scalogno per 5 minuti, poi aggiungete la pancetta tagliata a cubetti (10) e le zucchine, salate, pepate, coprite con il coperchio e cuocete a fuoco moderato per 10 minuti. A cottura ultimata spegnete il fuoco e lasciate raffreddare (12) Riprendente la pasta matta, trasferitela su una spianatoia infarinata (13), con il mattarello stendetela ad uno spessore di circa 4 mm (14). Arrotolatela sul mattarello (15) E stendetela su una tortiera imburrata del diametro di 28 cm (16). Fate aderire la pasta sul fondo e sui bordi della tortiera (17) poi versate le zucchine, che nel frattempo si saranno raffreddate, avendo cura di distribuirle in modo omogeneo (18). In una ciotola sbatte le uova con una frusta (19), salate e incorporate anche il formaggio grattugiato (20) e versate il composto sulla torta salata (21). Per finire tagliate a cubetti la scamorza (22) e distribuitela su tutta la superficie della torta (23). Cuocete in forno statico preriscaldato per 30 minuti a 200°. A cottura ultimata sfornate la torta salata di zucchine e lasciatela intiepidire (24) prima di servirla.",
+      "preparation_time": 30,
+      "cooking_time": 75,
+      "recipe_yield": 6,
+      "rating": "3.8"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 13,
+    "fields": {
+      "created": "2017-08-30T21:52:10.010Z",
+      "updated": "2017-08-30T21:52:10.010Z",
+      "name": "Fiori di zucca in pastella",
+      "slug": "fiori-di-zucca-in-pastella",
+      "introduction": "I fiori di zucca dello Chef Fabio Abbattista sono dorati e fragranti: doppia pastella e in tempura classica per uno sfizioso aperitivo!",
+      "instructions": "Per preparare i fiori di zucca in pastella iniziate a realizzare quest'ultima. Come prima cosa sciogliete 15 g di lievito fresco, sbriciolato a mano, con un po' d'acqua a temperatura ambiente presa dai 220 g che vi servono per la pastella (1), emulsionando con una frusta. Poi in un'altra ciotola versate 150 g di farina, aggiungete la restante acqua a temperatura ambiente (2) e mescolate con una frusta, fino ad ottenere un composto liscio e senza grumi (3). Poi aggiungete il lievito di birra appena sciolto nell'acqua (4) continuando a sbattere. Unite anche i 6 g di zucchero e 6 g di sale (5), mescolate nuovamente per amalgamare gli ingredienti e coprite con della pellicola trasparente (6). Lasciate riposare per circa 30 minuti a temperatura ambiente. Nel frattempo occupatevi della pulizia dei fiori di zucca: staccate delicatamente il gambo (7). Poi sempre con le mani tirate via sia i pistilli esterni (8), che il bocciolo interno (9); ripetete la stessa operazione per tutti gli altri fiori di zucca. Una volta trascorsi i 30 minuti la pastella classica risulterà ben lievitata (10), quindi occupatevi della frittura. Versate l'olio in un tegame e portatelo alla temperatura di 170-180° al massimo (per farlo munitevi di un termometro da cucina). Una volta che l'olio avrà quasi raggiunto la temperatura indicata immergete i fiori nella pastella (11) e utilizzando una pinza rigirateli in modo da ricoprirli interamente (12). Poi estraete ciascun fiore dalla pastella (13), lasciando colare quella in eccesso e immergete pochi pezzi per volta nell'olio caldo (14) in modo da non abbassare troppo la temperatura. Quando risulteranno ben dorati, girateli (15) e proseguite la cottura anche dall'altro lato. Poi utilizzando una schiumarola estraeteli dall'olio e posizionateli su un foglio di carta assorbente (16). Condite con un pizzico di sale (17) e servite i vostri fiori di zucca in pastella (18). Se preferite un'alternativa più croccante una volta puliti tutti i fiori, come descritto in precedenza, realizzate la tempura. Versate il tuorlo in una ciotola (19) e mescolando con una frusta aggiungete poco alla volta i 100 g di farina (20), quindi anche i 200 g di acqua ghiacciata versata a filo (21). Continuate a mescolare fino ad ottenere un composto liscio (22). Immergete i fiori nella pastella, girandoli in modo da ricoprirli interamente (23). Scaldate l'olio, portandolo ad una temperatura di 170-180°, come indicato in precedenza e friggete i vostri fiori di zucca in tempura, rigirandoli a metà cottura (24). Una volta cotti, scolateli dall'olio utilizzando una schiumarola (25) trasferiteli su un foglio di carta da cucina. Salateli (26) e serviteli ancora caldi (27)!",
+      "preparation_time": 20,
+      "cooking_time": 25,
+      "recipe_yield": 15,
+      "rating": "4.5"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 14,
+    "fields": {
+      "created": "2017-08-30T21:52:10.261Z",
+      "updated": "2017-08-30T21:52:10.261Z",
+      "name": "New York Cheesecake",
+      "slug": "new-york-cheesecake",
+      "introduction": "La New York cheesecake è un tipico dolce americano preparato con una base di biscotti, una crema al formaggio cremoso e una cascata di frutti di bosco",
+      "instructions": "Per preparare la New York cheesecake, per prima cosa fondete il burro e lasciatelo intiepidire; nel frattempo ponete i biscotti in un mixer (1) e frullateli fino a ridurli in polvere (2). Poi trasferiteli in una ciotola e versate il burro (3).  Mescolate con un cucchiaio fino ad uniformare il composto (4); prendete poi uno stampo a cerniera da 22 cm e foderate la base con la carta forno. Ponete metà dei biscotti all'interno e schiacciateli con il dorso del cucchiaio per compattarli (6).  Poi utilizzando i biscotti rimanenti foderate anche il bordo dello stampo (7). Non appena avrete ricoperto l'intera superficie ponete la base della vostra New York cheesecake a rassodare in frigorifero per 30 minuti, oppure in freezer per 15 minuti. Nel frattempo occupatevi di preparare la crema: in una ciotola rompete un uovo, aggiungete un tuorlo, lo zucchero (8) e sbattete il tutto con una frusta fino ad ottenere una crema (9).  Prelevate i semi di una mezza bacca di vaniglia (tenendo da parte il resto che servirà successivamente) e poneteli insieme alle uova (11). Aggiungete anche il formaggio cremoso poco per volta (12)  e continuate a mescolare con una frusta (13). Non appena avrete incorporato tutto il formaggio, aggiungete anche il succo di limone (14) e l'amido di mais (15). Unite poi la panna (16) e mescolate ancora delicatamente con la frusta (17). Riprendete dal frigorifero la base di biscotti e versate il composto all'interno (18).  Livellate leggermente la superficie e cuocete in forno statico preriscaldato a 160° per 60 minuti, poi proseguite la cottura a 170° per altri 20 minuti. Una volta cotta, lasciate raffreddare la cheesecake nel forno spento con lo sportello aperto e nel frattempo occupatevi del topping. In una ciotola, unite la panna acida con i semi della mezza bacca di vaniglia tenuta da parte e amalgamate il tutto con una spatola.  Versate il topping sulla cheesecake a temperatura ambiente e spalmatelo uniformemente (22), poi riponetela nuovamente in frigorifero a riposare per 2 ore. Trascorso il tempo di riposo, sformate il dolce (23) e occupatevi della decorazione: aggiungete prima i ribes (24), poi le more, i mirtilli e i lamponi (25). In ultimo aggiungete le foglioline di menta (26) e servite la vostra favolosa New York cheesecake (27)! ",
+      "preparation_time": 30,
+      "cooking_time": 110,
+      "recipe_yield": 8,
+      "rating": "4.3"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 15,
+    "fields": {
+      "created": "2017-08-30T21:52:10.564Z",
+      "updated": "2017-08-30T21:52:10.564Z",
+      "name": "Pancakes allo sciroppo d'acero",
+      "slug": "pancakes-allo-sciroppo-dacero",
+      "introduction": "Preparare i pancakes in casa è molto semplice, occorrono pochi ingredienti ed il gioco è fatto! Soffici frittelle da guarnire come si preferisce.",
+      "instructions": "Iniziamo la preparazione dei pancakes fondendo il burro a fuoco bassissimo, quindi lasciate intiepidire. Intanto dividete gli albumi dai tuorli. Versate i tuorli in una ciotola e sbatteteli con una frusta a mano (1), poi unite il burro fuso a temperatura ambiente (2) e il latte a filo, continuando sempre a mescolare con la frusta (3). Montate il composto finchè non risulterà chiaro. Unite il lievito alla farina (7) e setacciate tutto nella ciotola con il composto di uova (8), mescolate con la frusta per amalgamare (9). Ora montate gli albumi che avete tenuto da parte, versando poco alla volta lo zucchero (7) e quando saranno bianchi e spumosi incorporateli delicatamente al composto di uova, con movimenti dall'alto verso il basso, per evitare di smontarli (8). Mettete a scaldare sul fuoco medio (non alto altrimenti non darete il tempo all'impasto di lievitare bene durante la cottura e i pancakes diventeranno troppo scuri) una padella ampia antiaderente (meglio se a fondo spesso) e, se necessario, ungete con poco burro da spandere sulla superficie con l'aiuto di carta da cucina. Versate al centro del pentolino un mestolino di preparato (9), non ci sarà bisogno di spanderlo. Quando inizieranno a comparire delle bollicine in superficie e la base sarà dorata, giratelo sull’altro lato per mezzo di una spatolina (10), come se fosse una crepe o una frittata, quindi fate dorare a sua volta anche l'altro lato, dopodichè il pancake sarà pronto (11). Proseguite così con il resto dell'impasto e man a mano disponete i pancakes su un piatto da portata, impilateli uno sopra l'altro . Con queste dosi dovrebbero formarsi all'incirca 12 pancakes. Serviteli caldi e cosparsi di sciroppo d’acero (12). Potete accompagnare i pancakes con della frutta fresca o sciroppata di vostro gusto.",
+      "preparation_time": 15,
+      "cooking_time": 35,
+      "recipe_yield": 4,
+      "rating": "4.1"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 16,
+    "fields": {
+      "created": "2017-08-30T21:52:10.792Z",
+      "updated": "2017-08-30T21:52:10.792Z",
+      "name": "Clafoutis alle ciliegie",
+      "slug": "clafoutis-alle-ciliegie",
+      "introduction": "Il clafoutis è un rinomato dolce di origine francese, una torta che in genere si realizza con frutta di stagione e si gusta tiepida.",
+      "instructions": "Per preparare il clafoutis alla ciliegie lavate le ciliegie, asciugatele, togliete loro il peduncolo e denocciolatele (1). Tenetele da parte e dedicatevi a realizzare la pastella: versate in una terrina le uova, a temperatura ambiente, insieme allo zucchero (2) e iniziate a montarle con uno sbattitore (3). Una volta ottenuto un composto chiaro e spumoso che abbia raggiunto il doppio del volume iniziale, aggiungete la farina setacciata (4), il sale, i semi della bacca di vaniglia (5) ( per ottenerli dovrete incidere la bacca e raschiarla con un coltellino). Quindi continuate a sbattere con lo sbattitore, a velocità bassa (6). Mescolando con una frusta a mano aggiungete il latte, non troppo freddo, poco alla volta (7) e il brandy (8). In questo modo otterrete una pastella non troppo densa. Imburrate leggermente una pirofila dai bordi bassi del diametro di 28 cm e cospargetela con lo zucchero (9). Distribuite le ciliegie denocciolate sul fondo della pirofila, fino a ricoprire l'intera area (10) e versate sopra la pastella (11). Infornate in forno statico preriscaldato a 180° per 55 minuti , fino a che risulterà ben dorato in superficie (12) (se utilizzate il forno ventilato cuocete a 160° per circa 45 minuti). A cottura avvenuta, sfornate il vostro clafoutis alle ciliegie, lasciatelo intiepidire e servite.",
+      "preparation_time": 20,
+      "cooking_time": 75,
+      "recipe_yield": 8,
+      "rating": "3.6"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 17,
+    "fields": {
+      "created": "2017-08-30T21:52:11.045Z",
+      "updated": "2017-08-30T21:52:11.045Z",
+      "name": "Spaghetti alla Carbonara",
+      "slug": "spaghetti-alla-carbonara",
+      "introduction": "La ricetta degli spaghetti alla carbonara è tipica del Lazio ed è apprezzata in tutto il mondo grazie alla sua semplicità, facilità e bontà!",
+      "instructions": "Per preparare gli spaghetti alla carbonara cominciate mettendo sul fuoco una pentola con l’acqua salata per cuocere la pasta. Nel frattempo eliminate la cotenna dal guanciale (1) e tagliatelo prima a fette e poi a striscioline spesse circa 1cm (2). La cotenna avanzata potrà essere riutilizzarla per insaporire altre preparazioni. Versate i pezzetti in una padella antiaderente (3) e rosolate per circa 15 minuti a fiamma media, fate attenzione a non bruciarlo altrimenti rilascerà un aroma troppo forte. Nel frattempo tuffate gli spaghetti nell’acqua bollente (4) e cuoceteli per il tempo indicato sulla confezione. Intanto versate i tuorli in una ciotola (5), aggiungete anche la maggior parte del pecorino previsto dalla ricetta (6) la parte restante servirà per guarnire la pasta. Insaporite con il pepe nero (7), amalgamate tutto con una frusta a mano (8). Aggiungete un cucchiaio di acqua di cottura per diluire il composto e mescolate (9). Intanto il guanciale sarà giunto a cottura, spegnete il fuoco e tenetelo da parte (10). Scolate la pasta al dente direttamente nel tegame con il guanciale (11) e saltatela brevemente per insaporirla. Togliete dal fuoco e versate il composto di uova e pecorino (12) nel tegame, saltate la pasta per amalgamare e se dovesse risultare troppo asciutta potete aggiungere poca acqua di cottura (13). Servite subito gli spaghetti alla carbonara insaporendoli con il pecorino avanzato (14) e il pepe nero macinato (15).",
+      "preparation_time": 15,
+      "cooking_time": 25,
+      "recipe_yield": 4,
+      "rating": "4.4"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 18,
+    "fields": {
+      "created": "2017-08-30T21:52:11.255Z",
+      "updated": "2017-08-30T21:52:11.255Z",
+      "name": "Pasta fredda alle zucchine",
+      "slug": "pasta-fredda-alle-zucchine",
+      "introduction": "La pasta fredda alle zucchine è un'insalata di pasta piena di gusto, con il gusto delicato della zucchina, menta e lime: per un pranzo leggero.",
+      "instructions": "Per preparare la pasta fredda di zucchine, iniziate dalle zucchine: dopo averle lavate bene privatele delle estremità (1) e poi affettatele molto finemente con una mandolina, per ottenere delle rondelle dello spessore di circa 1 millimetro (2). Mettete le zucchine in una ciotola e grattugiate la scorza del lime (3). Ora prendete la menta: dividete le foglioline (4), affettatele a striscioline sottili con con un coltello (5) e poi unitele alle zucchine nella ciotola (6). Spremete il lime (7) condite con 30 g di olio (8). Aggiungete sale e pepe e mescolate bene (9). A questo punto coprite la ciotola con la pellicola trasparente (10) e lasciate marinare le zucchine in frigorifero per un'ora. Nel frattempo preparate l'acqua per la pasta, da salare a bollore, e lessate le mezze maniche rigate (11) per circa 7 minuti (il tempo riportato sulla confezione), in modo che restino al dente. Scolate la pasta (12) e versatela in una ciotola: conditela con circa 10 g di olio (13) e lasciatela raffreddare. Passate quindi al resto del condimento: tagliate in quattro i pomodorini (14) e, con un pelaverdure, eliminate la parte filamentosa dalla costa del sedano (15). Tritate il sedano in modo da ridurre la costa a faldine e le foglie a pezzetti di circa 1 centimetro (16). Poi tagliate a dadini anche la feta (17). Trascorsa l'ora di marinatura delle zucchine potete procedere a unire tutti gli ingredienti: versate le zucchine e il loro liquido di marinatura nella ciotola con la pasta ormai fredda (18); unite i pomodorini e la feta (19), il sedano e le sue foglie (20) e le olive taggiasche deocciolate (21), mescolando bene per amalgamare tutti gli ingredienti. Condite con il restante olio (22) e mescolate nuovamente (23) prima di impiattare (24). La vostra pasta fredda alle zucchine è pronta per essere gustata!",
+      "preparation_time": 20,
+      "cooking_time": 27,
+      "recipe_yield": 6,
+      "rating": "3.2"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 19,
+    "fields": {
+      "created": "2017-08-30T21:52:11.538Z",
+      "updated": "2017-08-30T21:52:11.538Z",
+      "name": "Yogomisù",
+      "slug": "yogomisu",
+      "introduction": "Lo yogomisù è una fresca alternativa al classico tiramisù, perfetto per la stagione estiva, senza caffè con tanti frutti di bosco!",
+      "instructions": "Per preparare lo yogomisù come prima cosa versate lo zucchero di canna in un pentolino (1), aggiungete l'acqua (2) e portate ad ebollizione senza mai mescolare. Quando lo zucchero sarà completamente sciolto aggiungete i frutti di bosco (3)  e cuocete il tutto per circa 5 minuti (4). Trasferite poi nel bicchiere di un mixer e frullateli (5) fino ad ottenere una consistenza cremosa. Trasferite la purea all'interno di una pirofila (6) e tenete da parte.  Passate alla crema. Come prima cosa iniziate a montare la panna ben fredda aggiungendo lentamente lo zucchero a velo (7-8). Trasferite poi lo yogurt in una ciotola (9)  e aggiungete la panna poco per volta (10) facendo dei movimenti rotatori dal basso verso l'alto (11).  Passate a comporre i vostri bicchierini. Prendete uno dei savoiardi e spezzatelo a metà (12).  Immergete entrambi i pezzi all'interno della purea di frutti di bosco (13) e utilizzando una forchetta rigirateli in modo da ricoprire i savoiardi su tutti i lati. Prendete uno dei vasetti da 175-200 ml massimo e create un primo strato di crema (14). Aggiungete entrambi i pezzi di savoiardi (15)  e un pò di purea (16). Ripetete la stessa operazione per l'altro stato, aggiungendo prima un cucchiaio di crema (17) poi due pezzi di savoiardi passati nella purea (18)  e ultimate ancora con un cucchiaio di crema (19). Sbriciolate i lamponi disidratati fino ad ottenere una polvere e utilizzatela per guarnire la superficie dello yogomisù (20). Ultimate con frutti di bosco e foglioline di menta (21) e ripetete la stessa operazione anche per gli altri 3. Riponete in frigorifero e lasciate rassodare per almeno 1 ora prima di servire il vostro yogomisù! ",
+      "preparation_time": 15,
+      "cooking_time": 22,
+      "recipe_yield": 4,
+      "rating": "4.0"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 20,
+    "fields": {
+      "created": "2017-08-30T21:52:11.774Z",
+      "updated": "2017-08-30T21:52:11.774Z",
+      "name": "Vitello tonnato",
+      "slug": "vitello-tonnato",
+      "introduction": "Il vitello tonnato è una ricetta tipica del Piemonte, un antipasto molto semplice da preparare e che conquista tutti con la sua bontà!",
+      "instructions": "Per preparare il vitello tonnato, iniziate dalla pulizia delle verdure che serviranno per cuocere la carne. Lavatele, quindi pelate la carota e spuntatela, tagliatela in pezzi (1). Poi eliminate le estremità dal sedano e tagliate anch'esso in pezzi (2). Sbucciate la cipolla e dividetela in 2 parti (3). Man mano raccogliete gli ingredienti in una ciotola e aggiungete anche l’aglio intero, senza camicia. Passate alla pulizia della carne eliminando eventuali cartilagini e filamenti di grasso (4). In una pentola capiente mettete il pezzo di girello, le verdure tagliate (5), la foglia di alloro, 2-3 chiodi di garofano e i grani di pepe nero (6). Versate il vino bianco (7) e poi l'acqua che dovrà coprire il tutto (8). Unite due pizzico di sale (9) e poi l’olio (10). Accendete il fornello e attendete che raggiunga il bollore, dopodiché, man a mano eliminate la schiuma che affiorerà in superficie (11). Poi chiudete col coperchio e abbassate leggermente la fiamma lasciando cuocere circa 40-45 minuti: ricordando che per ogni 500 g di carne occorrono circa 30 minuti di cottura. L’importante è che al cuore la carne non superi i 65°, da misurare con un termometro da cucina (12). Una volta cotto il pezzo di carne (13), scolatelo e lasciatelo raffreddare completamente (14). Poi eliminate alloro, pepe e chiodi di garofano (15). Recuperate 1/3 del brodo ottenuto e lasciatelo restringere a fiamma alta per una decina di minuti. La restante parte di brodo di carne sarà utile per altre preparazione, come per esempio i risotti (16); a fine cottura scolate le verdure in un recipiente (17). Intanto passate a preparare le uova sode . In un pentolino con abbondante acqua fredda immergete le uova fresche. Accendete il fornello e dal momento del bollore contate 9 minuti (18). Quando saranno rassodate scolatele e sciacquatele sotto acqua fredda. Una volta raffreddate, sgusciatele e tagliatele in 4 parti (19). Unite gli spicchi d’uovo nella ciotola con le verdure (20). Aggiungete anche il tonno sgocciolato (21), le acciughe sott’olio e i capperi dissalati (potete dissalarli sciacquandoli sotto acqua fresca corrente) (22), infine aggiungete un po’ di brodo (23). Utilizzate il frullatore ad immersione (eventualmente va bene anche il classico mixer) e aggiungete altro brodo al bisogno (24). Frullate fino ad ottenere una crema liscia e della consistenza che preferite (25). A questo punto la carne dovrebbe essere completamente fredda. Affettatela sottilmente con un coltello a lama liscia (26). Disponete le fettine in un piatto da portata e versate nel mezzo la crema ottenuta. Decorate infine con i frutti di cappero, qualcuno intero e qualcuno tagliato a metà ed ecco pronto il vostro vitello tonnato (27).",
+      "preparation_time": 30,
+      "cooking_time": 85,
+      "recipe_yield": 6,
+      "rating": "4.3"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 21,
+    "fields": {
+      "created": "2017-08-30T21:52:12.131Z",
+      "updated": "2017-08-30T21:52:12.131Z",
+      "name": "Torta di ciliegie",
+      "slug": "torta-di-ciliegie",
+      "introduction": "Una torta morbida e saporita, dal gusto rustico: torta di ciliegie, una fetta tira l'altra proprio come questo frutto di piena estate!",
+      "instructions": "Per preparare la torta di ciliegie iniziate denocciolando le ciliegie con un coltellino a lama liscia (1) oppure con l’apposito snocciolatore se lo possedete e dividetele a metà. In una ciotola versate lo zucchero e il burro a pezzetti a temperatura ambiente (2), lavorate con il composto con le fruste elettriche (3) fino a ottenere un crema. Aggiungete le uova (4) e continuate a sbattere con le fruste a velocità media (5) finché non saranno incorporate (6). Setacciate tutte le polveri (la farina, la fecola e il lievito) sul composto ottenuto (7) e mescolate il tutto con una marisa (8) per amalgamare gli ingredienti (9). Imburrate una tortiera del diametro di 20 cm e versate una cucchiaiata d’impasto sul fondo della tortiera (10); disponete uniformemente l’impasto (11) e posizionatevi in superficie una parte delle ciliegie creando uno strato senza sovrapporle, disponendole con la parte tagliata rivolta verso il basso (12). Frullate con un frullatore a immersione un cucchiaio di ciliegie fresche (13-14) e versate il composto sulle ciliegie disposte a raggiera (15): servirà giusto per dare una parte un po' più “caramellata” che si formerà poi in cottura. Versate il restante impasto in tortiera, distribuitelo con il dorso di un cucchiaio in modo omogeneo (16) e completate la torta con le ciliegie avanzate adagiandole sull’impasto come avete fatto in precedenza, con la parte tagliata rivolta verso il basso (17). Cuocete in forno statico preriscaldato a 200° nel modo seguente: per i primi 30 minuti posizionate la teglia nella parte bassa del forno e per i restanti 25/30 minuti di cottura nel ripiano di mezzo del forno. A cottura ultimata sfornate la torta alle ciliegie (18) e aspettate che si sia raffreddata prima di sformarla.",
+      "preparation_time": 15,
+      "cooking_time": 75,
+      "recipe_yield": 8,
+      "rating": "4.4"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 22,
+    "fields": {
+      "created": "2017-08-30T21:52:12.314Z",
+      "updated": "2017-08-30T21:52:12.314Z",
+      "name": "Cheesecake alle ciliegie",
+      "slug": "cheesecake-alle-ciliegie",
+      "introduction": "La cheesecake è una torta fresca di tradizione americana che in questa versione è impreziosita dalla presenza di ciliegie fresche.",
+      "instructions": "Per realizzare la cheesecake alle ciliegie, iniziate predisponendo il fondo: mettete i digestive nel mixer (1) e azionatelo fino a sminuzzarli finemente in modo da ottenere una polvere sottile (2); trasferite il composto in una ciotola e, dopo aver fatto sciogliere il burro in un pentolino, aggiungetelo ai biscotti sminuzzati (3). Amalgamate per bene il tutto (4) e versate il composto ottenuto nello stampo a cerniera da 22 cm foderato con carta forno e, con l’aiuto di un cucchiaio, premete bene il composto sul fondo dello stampo così da ottenere una base compatta e liscia (5). Fate riposare il composto in freezer per almeno mezz'ora in modo che la base diventi solida. Nel frattempo, procedete alla preparazione della copertura: lavate e denocciolate le ciliegie (ricordatevi di tenerne da parte una ventina in modo tale da aggiungerle successivamente alla composizione della crema) e riponetele quindi in una ciotola in cui aggiungete anche lo zucchero (6) e la scorza di limone (7). Versate il tutto in una pentola sul fuoco (8) e aggiungeteci poi anche il succo di limone (9.) Lasciate cuocere per circa 10 minuti e tenete da parte. Dedicatevi ora alla crema: setacciate la ricotta in una ciotola per privarla del siero (10). Dopodiché aggiungete il formaggio fresco spalmabile (11) e, con una spatola o una frusta, mescolate per bene il tutto (12). Proseguite incidendo la bacca di vaniglia nel senso della lunghezza(13), estraete così i semi (14) e versateli all’ interno della ciotola insieme al composto cremoso (15). Mescolate con una frusta e unite lo zucchero a velo (16), quindi amalgamate il tutto. A questo punto mettete in ammollo la gelatina in fogli per circa 10 minuti in una ciotola con acqua molto fredda, finché non diventerà morbida (17). Poi procedete prelevando dalla pentola con le ciliegie cotte lo sciroppo di ciliegie ottenuto dalla cottura (18) e versatelo in un altro pentolino sul fuoco (19). Quindi fate sciogliere la gelatina in fogli ormai ammorbidita e strizzata, nel pentolino contenente lo sciroppo di ciliegie (20). Mescolate bene in modo tale da scioglierla. (21). Lasciate intiepidire lo sciroppo e trasferitelo nel composto di formaggi (22) mescolando per amalgamarlo omogeneamente (23). A questo punto prendete le venti ciliegie tenute da parte precedentemente e tagliatele a piccoli pezzetti (24). Incorporate al composto di formaggi anche le ciliegie (25) e mescolate per bene (26). A questo punto recuperate lo stampo dal frigo e versate al suo interno il composto cremoso sulla base di biscotti ormai rassodata (27). Quindi ricoprite la base uniformemente e livellate bene la superficie con la crema (28). Mettete lo stampo in frigorifero per almeno 2 ore, affinché la crema si rassodi. Una mezz’ora prima di estrarre la torta dal frigorifero, preparate la copertura finale di ciliegie: riprendete le ciliegie denocciolate e filtratele (29), versate quindi lo sciroppo ottenuto in un pentolino sul fuoco (30) e nel pentolino dello sciroppo, scaldate e sciogliete la restante gelatina in fogli avendo cura di averla ammorbidita precedentemente in acqua fredda (31). Mescolate per farla sciogliere per bene (32). Riunite così le ciliegie con lo sciroppo (33). Ed ecco pronta la copertura di ciliegie. Trascorso il tempo necessario, recuperate la torta dal frigorifero e versate la copertura sul composto cremoso, dopodichè lasciatela rassodare in frigorifero per almeno 2-3 ore (34). Quando sarà pronta, togliete il cerchio della tortiera (35) ed ecco realizzata la vostra cheesecake alle ciliegie. Servitela tagliandola a fette (36).",
+      "preparation_time": 50,
+      "cooking_time": 70,
+      "recipe_yield": 8,
+      "rating": "4.7"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 23,
+    "fields": {
+      "created": "2017-08-30T21:52:12.671Z",
+      "updated": "2017-08-30T21:52:12.671Z",
+      "name": "Zucchine ripiene",
+      "slug": "zucchine-ripiene",
+      "introduction": "Le zucchine ripiene sono un secondo piatto sfizioso, tipico della cucina casalinga che si prepara farcendo le zucchine con un  trito di carne.",
+      "instructions": "Per preparare le zucchine ripiene, lavate le zucchine sotto acqua corrente (1), tamponatele con un panno pulito (2) e tagliate la calotta per formare il cappello (3). Incidete il perimetro interno con un coltellino, praticate una croce nella polpa ed estraetene uno spicchio alla volta (4); poi scavate all'interno con uno scavino (5) o un cucchiaino e lasciando 1 cm circa di spessore. Avrete così pronti sia le calotte che i gusci da farcire. Salate l'interno delle zucchine (6) poi capovolgetele su un vassoio foderato con carta da cucina perché perdano il liquido di vegetazione (7). Intanto dedicatevi al ripieno: in una ciotola versate la carne trita e aggiungete la salsiccia privata del budello (8), unite anche il Parmigiano grattugiato (9), la polpa delle zucchine tritata, le uova leggermente sbattute (10) e la mollica di pane tritata (11). Unite il prezzemolo tritato (12), salate, pepate quindi amalgamate il composto fino ad ottenere un impasto omogeneo (13). Ungete una teglia profonda con un filo d'olio (14). Riprendete le zucchine ben scolate e riempite ciascuna fino all'orlo con il ripieno di carne (15). Distribuite le zucchine ripiene all'interno della teglia con le loro calotte (16); cuocete il tutto in forno statico preriscaldato a 160° per circa 60 minuti (se forno ventilato 140° per circa 50 minuti); potete togliere prima dei 60 minuti previsti le calotte, se si saranno ammorbidite e avranno preso colore, mentre le zucchine ripiene dovranno diventare dorate e croccanti in superficie (17). Quindi sfornatele e servite le zucchine ripiene calde o a temperatura ambeinte insieme alle calotte (18)!",
+      "preparation_time": 25,
+      "cooking_time": 85,
+      "recipe_yield": 4,
+      "rating": "4.8"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 24,
+    "fields": {
+      "created": "2017-08-30T21:52:12.931Z",
+      "updated": "2017-08-30T21:52:12.931Z",
+      "name": "Pesto alla Genovese",
+      "slug": "pesto-alla-genovese",
+      "introduction": "Il pesto alla genovese è un gustoso condimento a base di basilico, formaggio, aglio e olio, realizzato tradizionalmente con mortaio e pestello.",
+      "instructions": "Per preparare il pesto alla genovese bisogna innanzitutto precisare che le foglie di basilico non vengano lavate, ma pulite con un panno morbido (1-2); inoltre dovrete accertarvi che si tratti di basilico ligure o Genovese, a foglie strette (e non quello meridionale a foglie grosse, che spesso ha un aroma di menta). Iniziate la preparazione del pesto ponendo l'aglio sbucciato nel mortaio (3) assieme a qualche grano di sale grosso (4). Cominciate a pestare (4) e, quando l'aglio si sarà ridotto in crema (5), aggiungete le foglie di basilico insieme ad un pizzico di sale grosso (6), che servirà a frantumare meglio le fibre e a mantenere un bel colore verde acceso. Schiacciate, quindi, il basilico contro le pareti del mortaio ruotando il pestello da sinistra verso destra e contemporaneamente ruotate il mortaio in senso contrario (da destra verso sinistra), prendendolo per le \"orecchie\", ovvero le 4 sporgenze tondeggianti che caratterizzano il mortaio stesso (7). Continuate così fino a quando dalle foglie di basilico non uscirà un liquido verde brillante (8); a questo punto aggiungete i pinoli (9) e ricominciate a pestare per ridurre in crema. Aggiungete i formaggi un po' alla volta mescolando continuamente (10), per rendere ancora più cremosa la salsa, e per ultimo l'olio di oliva extravergine (11) che andrà versato a filo, mescolando sempre con il pestello. Amalgamate bene gli ingredienti fino ad ottenere una salsa omogenea (12). Il vostro autentico pesto alla genovese è pronto per essere utilizzato!",
+      "preparation_time": 20,
+      "cooking_time": 20,
+      "recipe_yield": 2,
+      "rating": "4.5"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 25,
+    "fields": {
+      "created": "2017-08-30T21:52:13.178Z",
+      "updated": "2017-08-30T21:52:13.178Z",
+      "name": "Crepes dolci e salate (ricetta base)",
+      "slug": "crepes-dolci-e-salate-ricetta-base",
+      "introduction": "Grazie all'impasto di base delle crepes dolci e salate, potrete finalmente preparare delle crespelle perfette da farcire come preferite!",
+      "instructions": "Per preparare le crepes dolci e salate iniziate rompendo le uova in una ciotola dai bordi alti (1) mescolate con una forchetta e unite il latte (2). Mescolate accuratamente per amalgamare questi due ingredienti (3). Posizionate un colino sul recipiente e poi setacciate la farina nella ciotola (4), (per comodità potete anche aggiungerla in due tempi e mescolare così da evitare la formazione di grumi). Poi con le fruste mescolate energicamente per assorbire la farina (5). Continuate a mescolare fino ad ottenere un composto omogeneo, vellutato e privo di grumi (6). A questo punto coprite la ciotola con della pellicola alimentare trasparente e lasciate riposare per almeno 30 minuti in frigorifero: questa operazione serve a far assorbire eventuali grumi (7). Trascorso il tempo mescolate l’impasto per farlo rinvenire (8) e poi scaldate una crepiera (o in alternativa una padella antiaderente dal diametro tra i 18 ed i 22 cm) ed ungetela con una noce di burro. Una volta a temperatura versate un mestolo di impasto sufficiente a ricoprire la superficie della padella: potete aiutarvi con l'apposito stendi pastella per crepes oppure ruotare la padella fino a distribuire il composto uniformemente (fate attenzione a non spanderlo tutto sui bordi per evitare che al centro non rimanga pastella sufficiente a creare una crepe dalla superficie uniforme); si consiglia di eseguire queste operazioni molto in fretta, poiché la pastella cuocerà rapidamente. (9) Trascorso circa 1 minuto a fuoco medio-basso, dovreste notare una leggera doratura, i bordi tenderanno a staccarsi perciò potrete girare la prima crepe aiutandovi con una paletta (10). Cuocete anche l'altro lato per 1 minuto circa, aspettando che prenda colore (11). Una volta cotta la prima, strasferitela su un piatto da portata o su di un tagliere. Ripetete questa operazione fino a finire l’impasto, dovreste ottenere così 8 crepes del diametro di 20 cm: impilate ogni crepe una sopra l’altra così resteranno morbide. Ecco pronte le vostre crepes dolci e salate, non vi resta che farcirle (12)!",
+      "preparation_time": 10,
+      "cooking_time": 25,
+      "recipe_yield": 8,
+      "rating": "4.3"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 26,
+    "fields": {
+      "created": "2017-08-30T21:52:13.367Z",
+      "updated": "2017-08-30T21:52:13.367Z",
+      "name": "Pasta e zucchine",
+      "slug": "pasta-e-zucchine",
+      "introduction": "La pasta e zucchine è un primo piatto davvero semplice e gustoso, facile e veloce: si prepara in meno di 20 minuti!",
+      "instructions": "Per preparare pasta e zucchine, potete mettere a bollire l'acqua in un tegame capiente e salarla quando sarà arrivata a bollore. Intanto lavate e asciugate le zucchine (1), spuntatele e poi grattugiatele con una grattugia a fori grossi (2). In una padella abbastanza capiente versate l’olio extravergine d’oliva e scaldatelo a fuoco basso insieme ad uno spicchio d’aglio intero già mondato (3). Non appena l’olio sarà ben caldo unite le zucchine (4) aggiustate di sale e di pepe e lasciatele cuocere per 5-6 minuti, mescolando di tanto in tanto; dopodiché eliminate l’aglio (5). Nel frattempo lessate la pasta nell'acqua bollente e salata (6) e scolatela al dente tenendo da parte poca acqua di cottura. Versate la pasta direttamente nella padella con le zucchine, insieme a poca acqua di cottura (7), sfiammate per qualche istante, mescolate e poi spegnete. Profumate il tutto con un po’ di basilico spezzettato a mano (8) e la vostra pasta e zucchine è pronta per essere gustata (9).",
+      "preparation_time": 5,
+      "cooking_time": 20,
+      "recipe_yield": 4,
+      "rating": "4.4"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 27,
+    "fields": {
+      "created": "2017-08-30T21:52:13.561Z",
+      "updated": "2017-08-30T21:52:13.561Z",
+      "name": "Penne al baffo",
+      "slug": "penne-al-baffo",
+      "introduction": "Le penne al baffo sono un primo piatto  super appetitoso. A base di panna, passata di pomodoro e prosciutto cotto sono perfette per una cena veloce!",
+      "instructions": "Per preparare le penne al baffo come prima cosa lavate, asciugate e tritate finemente il prezzemolo (1). Tenete da parte e passate al prosciutto cotto, tagliate anche questo a striscioline sottili (2). Ponete sul fuoco un tegame con abbondante acqua, salata a piacere, che servirà per la cottura della pasta. Tornate a realizzare il condimento: versate in un tegame un filo d'olio e aggiungete il prosciutto; lasciatelo rosolare per pochi minuti (3)   e unite anche la panna (4). Mescolate il tutto, aggiungete anche la passata di pomodoro (5) e lasciate cuocere per pochi minuti (6).  Nel frattempo cuocete anche la pasta (7) e scolatela al dente trasferendola direttamente nel tegame con il condimento (8). Regolate di sale e di pepe (9);  aggiungete il prezzemolo tritato (10), mescolate il tutto (11) e servite le vostre penne al baffo ancora calde (12). ",
+      "preparation_time": 5,
+      "cooking_time": 20,
+      "recipe_yield": 4,
+      "rating": "3.7"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 28,
+    "fields": {
+      "created": "2017-08-30T21:52:13.780Z",
+      "updated": "2017-08-30T21:52:13.780Z",
+      "name": "Parmigiana di melanzane",
+      "slug": "parmigiana-di-melanzane",
+      "introduction": "La parmigiana di melanzane è una delle ricette italiane più famose e amate, si prepara specialmente al sud Italia con tante e golose varianti!",
+      "instructions": "Per preparare la parmigiana di melanzane cominciate lavando e asciugando queste ultime (1). Poi con un coltello eliminate il picciolo (2) e affettate per il senso della lunghezza con l’aiuto di una mandolina, in alternativa con il coltello, per ottenere delle fette spesse 4-5 mm (3). Man mano disponete le fette all’interno di uno scolapasta e cospargete con un pò di sale grosso; continuate così fino ad ultimare il tutto (4). Sulla sommità delle melanzane sistemate un piatto con un peso, così le melanzane potranno spurgare dell’acqua di vegetazione che è amarognola ed è nemica del fritto. Lasciate così per almeno 1 ora. Nel frattempo affettate e tagliate a listarelle il fior di latte, dopodiché ottenete dei cubetti piccolissimi. Mettete a scolare anche questi, se non avete un altro scolapasta potrete disporli su un canovaccio pulitissimo (5). Nel frattempo occupatevi del sugo. In una larga casseruola versate un filo d’olio extravergine d’oliva e unite la cipolla tritata, mescolate spesso per non farla bruciare e lasciatela rosolare per un paio di minuti (6). Poi unite la passata di pomodoro (7) e aggiungete anche un po’ d’acqua, regolate di sale (8) e lasciate cuocere a fuoco dolce per 45 minuti. A fine cottura non dimenticate di aggiungere le foglioline di basilico spezzettandole a mano (9). Mettete a scaldare abbondante olio di semi e intanto sciacquate la porzione di melanzane che friggerete (10) e asciugatela con carta assorbente: procedete sempre un po’ alla volta così non scuriranno (11). Nell'olio bollente a 170° immergete poche fette alla volta (12) e dopo 2-3 minuti di cottura scolate su carta assorbente (13); procedete così con tutte le altre. A questo punto dovreste avere tutto quello che vi occorre, quindi passate alla composizione. Sporcate con un po’ di sugo una pirofila da 20x30cm (14), poi formate il primo strato disponendo le fette di melanzane in orizzontale (15). Grattugiate un po’ di pepe nero, spolverizzate con del parmigiano (16) e versate dei cubetti di fior di latte distribuendoli uniformemente (17). E infine versate ancora un po’ di sugo, giusto il necessario per colorire l’interno (18). Ripetete lo stesso procedimento stavolta sistemando le melanzane in senso verticale (19); continuate in questo modo a formare gli strati invertendo ogni volta il senso delle melenzane (20). Tra uno strato e l’altro, ricordate di pigiare delicatamente con i palmi delle mani così da compattarli. Sull’ultimo strato versate la restante passata di pomodoro (21), i cubetti di fior di latte ed il parmigiano (22). È arrivato il momento di cuocere la vostra parmigiana di melanzane in forno caldo a 200° per 40 minuti (23). Una volta pronta lasciatela assestare qualche minuto prima di servirla (24).",
+      "preparation_time": 40,
+      "cooking_time": 140,
+      "recipe_yield": 8,
+      "rating": "4.2"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 29,
+    "fields": {
+      "created": "2017-08-30T21:52:14.037Z",
+      "updated": "2017-08-30T21:52:14.037Z",
+      "name": "Crepe alla Nutella",
+      "slug": "crepe-alla-nutella",
+      "introduction": "Come fare una crepe alla Nutella ad arte? Scoprite i segreti per questa tentazione da gustare a merenda, per dessert o come spuntino di mezzanotte.",
+      "instructions": "Per preparare le crepe alla Nutella iniziate dalla preparazione dell’impasto di base. Prendete una ciotola capiente e dai bordi alti e versatevi le uova (1). Sbattete le uova con una forchetta ed unite il latte (2). Mescolate bene gli ingredienti con una forchetta (3). Setacciate la farina nella ciotola (4) e con le fruste mescolate energicamente per evitare la formazione di grumi (5). Continuate a mescolare fino ad ottenere un composto omogeneo, vellutato e fluido (6). Poi coprite la ciotola con pellicola alimentare trasparente e trasferite il composto a riposare per almeno 30 minuti in frigorifero (7). Trascorso il tempo prendete una crepiera (o in alternativa una padella antiaderente dal diametro tra i 18 ed i 22 cm), ponetela sul fuoco e ungetela con una noce di burro. Quando sarà ben calda versate un mestolo di impasto necessario a ricoprire quasi tutta la superficie della padella (8): potete aiutarvi con l'apposito stendi pastella per crepes, per stenderla in maniera uniforme oppure inclinare e ruotare la padella leggermente; questa operazione deve essere fatta abbastanza velocemente, poiché la pastella tenderà a cuocersi rapidamente. Fate cuocere per 1 minuto a fuoco medio-basso da un lato. Non appena sarà leggermente dorata e con una paletta riuscirete a sollevare i bordi della crepe, giratela dall’altro lato aiutandovi con la paletta (9). Cuocete anche l'altro lato per 1 minuto circa, aspettando che prenda colore (10). Quando sarà pronta, mettetela su un piatto da portata o su di un tagliere. Ripetete questo procedimento fino a finire l’impasto e ad ottenere 8 crepes del diametro di 20 cm; impilate le crepe una sopra l’altra mano a mano che saranno pronte fino al momento della farcitura (11). Poi prendete un cucchiaio abbondante di Nutella e stendetelo sulla superficie della crepe (12). Quindi prendete il bordo della crepe e fatelo combaciare con l’altro (13). Ripiegate la crepe alla Nutella ancora a metà in modo da ottenere un ventaglio (14) e ripetete l’operazione per le restanti crepe. Spolverizzate con zucchero a velo e servite la vostra crepe alla Nutella ancora calda (15)!",
+      "preparation_time": 10,
+      "cooking_time": 40,
+      "recipe_yield": 8,
+      "rating": "4.3"
+    }
+  },
+  {
+    "model": "api.recipe",
+    "pk": 30,
+    "fields": {
+      "created": "2017-08-30T21:52:14.237Z",
+      "updated": "2017-08-30T21:52:14.237Z",
+      "name": "Pasta fredda",
+      "slug": "pasta-fredda",
+      "introduction": "La pasta fredda è una fresca insalata di pasta leggera e gustosa, realizzata con verdura di stagione e ingredienti di qualità!",
+      "instructions": "Per preparare la pasta fredda, per prima cosa mettete a bollire una pentola capiente di acqua salata. Lavate e pelate le carote, spuntatele e tagliatele a listarelle di circa 3 cm di lunghezza (1). Fate lo stesso con le zucchine: lavatele e spuntatele, poi tagliatele a listarelle all’incirca della stessa grandezza delle carote (2), per assicurare una cottura uniforme. Quando l’acqua sarà arrivata a bollore, aggiungete le carote, le zucchine (3) e i piselli (4) e sbollentateli per 2-3 minuti. Scolate le verdure con una schiumarola tenendo l'acqua di cottura nel tegame (5) e trasferite le verdure in una ciotola con acqua ghiacciata (6), in modo da fermare la cottura e mantenere un colore brillante. Lessate la pasta nella stessa acqua in cui avete sbollentato le verdure (7) e cuocetela al dente. Nel frattempo potete preparare il resto degli ingredienti che vi serviranno per condire la pasta: lavate e tagliate i pomodorini in 4 parti (8), poi tagliate la mortadella (9) e il formaggio a cubetti (10). Quando la pasta sarà molto al dente, scolatela (11) e trasferitela in una ciotola; conditela con un filo d’olio (12) e mescolate bene per evitare che diventi collosa; lasciate che si raffreddi a temperatura ambiente. Una volta fredda, scolate le verdure dall'acqua con ghiaccio e trasferitele in un’altra ciotola, per unirle alle foglioline di timo (13), quelle di basilico (14), i pomodorini e i cubetti di mortadella (15), i cubetti di formaggio (16) e infine la pasta oramai fredda. Pepate a piacere, mescolate per distribuire bene tutti gli ingredienti (17) e impiattate: la vostra pasta fredda è pronta per essere servita (18)!",
+      "preparation_time": 20,
+      "cooking_time": 35,
+      "recipe_yield": 4,
+      "rating": "3.9"
+    }
+  }
+]
