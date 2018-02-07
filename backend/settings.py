@@ -42,7 +42,7 @@ DJANGO_APPS = [
 
 THIRD_PARTY_APPS = [
     'django_extensions',
-    'graphen-django'
+    'graphene_django',
     'corsheaders'
 ]
 
@@ -87,7 +87,7 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
 
 DATABASES = {
-    'default': {
+    'default': {  
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
