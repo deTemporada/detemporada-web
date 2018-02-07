@@ -20,3 +20,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .idea
+
+# Django
+__pycache__
+migrations
+*.sqlite3
+media
+static
