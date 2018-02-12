@@ -6,15 +6,18 @@ Clone this repository:
 ```git clone https://github.com/deTemporada/detemporada-web.git```
 
 Install dependencies
-```pip install requirements.txt
+```
+pip install requirements.txt
 npm install
 ```
 
 Load sample data to the database
-```./manage.py loaddata recipes
+```
+./manage.py loaddata recipes
 ```
 
 Run development servers
-```./manage.py runserver
+```
+./manage.py runserver
 npm start
 ```
